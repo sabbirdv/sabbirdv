@@ -77,13 +77,19 @@ My background in design gives me a different perspective on development — I ca
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next" alt="Frontend technologies" />
 </p>
 
-### Tools & Design
+### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,illustrator" alt="Development and design tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,nodejs" alt="Development and design tools" />
+</p>
+
+### Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" alt="Development and design tools" />
 </p>
 
 ---
