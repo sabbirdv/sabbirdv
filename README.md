@@ -1,4 +1,3 @@
-
 <!-- ============================== HEADER ============================== -->
 
 <p align="center">
@@ -26,7 +25,7 @@
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Umaer+Islam;Full+Stack+Web+Developer;Creative+Designer;JavaScript+%26+TypeScript+Enthusiast;Designer+%E2%80%A2+Builder+%E2%80%A2+Problem+Solver"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sabbir+Hasan;Full+Stack+Web+Developer;Creative+Designer;JavaScript+%26+TypeScript+Enthusiast;Designer+%E2%80%A2+Builder+%E2%80%A2+Problem+Solver"
       alt="Typing animation"
     />
   </a>
@@ -44,16 +43,16 @@
 
 ## <img src="https://api.iconify.design/mdi/account.svg?color=%236e7781&width=20" alt="" /> About Me
 
-I'm **Sabbir Hasan**, a Mern Stack Web Developer & Creative Designer focused on building modern web applications and meaningful digital experiences.
+I'm **Sabbir Hasan**, a MERN Stack Web Developer & Creative Designer focused on building modern web applications and meaningful digital experiences.
 
 My background in design gives me a different perspective on development — I care about both **how a product works and how people experience it**.
 
-- <img src="https://api.iconify.design/mdi/laptop.svg?color=%236e7781&width=16" alt="" /> Currently developing my Full Stack Web Development skills
-- <img src="https://api.iconify.design/mdi/palette.svg?color=%236e7781&width=16" alt="" /> Background in Graphic Design & Visual Creativity
-- <img src="https://api.iconify.design/mdi/lightning-bolt-outline.svg?color=%236e7781&width=16" alt="" /> Working with JavaScript, TypeScript, React and modern web technologies
-- <img src="https://api.iconify.design/mdi/brain.svg?color=%236e7781&width=16" alt="" /> Interested in AI-driven development and practical software engineering
-- <img src="https://api.iconify.design/mdi/rocket-outline.svg?color=%236e7781&width=16" alt="" /> Building real-world projects to strengthen my development skills
-- <img src="https://api.iconify.design/mdi/web.svg?color=%236e7781&width=16" alt="" /> Open to collaboration, opportunities and interesting projects
+* <img src="https://api.iconify.design/mdi/laptop.svg?color=%236e7781&width=16" alt="" /> Currently developing my Full Stack Web Development skills
+* <img src="https://api.iconify.design/mdi/palette.svg?color=%236e7781&width=16" alt="" /> Background in Graphic Design & Visual Creativity
+* <img src="https://api.iconify.design/mdi/lightning-bolt-outline.svg?color=%236e7781&width=16" alt="" /> Working with JavaScript, TypeScript, React and modern web technologies
+* <img src="https://api.iconify.design/mdi/brain.svg?color=%236e7781&width=16" alt="" /> Interested in AI-driven development and practical software engineering
+* <img src="https://api.iconify.design/mdi/rocket-outline.svg?color=%236e7781&width=16" alt="" /> Building real-world projects to strengthen my development skills
+* <img src="https://api.iconify.design/mdi/web.svg?color=%236e7781&width=16" alt="" /> Open to collaboration, opportunities and interesting projects
 
 ---
 
@@ -87,6 +86,8 @@ My background in design gives me a different perspective on development — I ca
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,illustrator" alt="Development and design tools" />
 </p>
 
+---
+
 <!-- ============================== GITHUB STATS ============================== -->
 
 ## <img src="https://api.iconify.design/mdi/chart-box-outline.svg?color=%236e7781&width=20" alt="" /> GitHub Stats
@@ -109,18 +110,26 @@ My background in design gives me a different perspective on development — I ca
     src="https://streak-stats.demolab.com?user=sabbirdv&theme=dark&hide_border=true&border_radius=12&background=0D1117"
     alt="Sabbir Hasan's GitHub streak"
   />
+</p>
 
-<!--- =============================================== --->
+---
+
+<!-- ============================== WAKATIME ============================== -->
+
 ## 🕒 WakaTime Stats
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 ---
-  
+
 <!-- ============================== FOOTER ============================== -->
 
-<h3 align="center"><img src="https://api.iconify.design/mdi/email-outline.svg?color=%236e7781&width=20" alt="" /> Let's build something together</h3>
+<h3 align="center">
+  <img src="https://api.iconify.design/mdi/email-outline.svg?color=%236e7781&width=20" alt="" />
+  Let's build something together
+</h3>
 
 <p align="center">
   <a href="mailto:sabbirhasandv@gmail.com">
@@ -137,4 +146,3 @@ My background in design gives me a different perspective on development — I ca
 <p align="center">
   <sub>Designed & developed with care by Sabbir Hasan</sub>
 </p>
-  
