@@ -109,6 +109,14 @@ My background in design gives me a different perspective on development — I ca
     src="https://streak-stats.demolab.com?user=sabbirdv&theme=dark&hide_border=true&border_radius=12&background=0D1117"
     alt="Sabbir Hasan's GitHub streak"
   />
+
+<!--- =============================================== --->
+## 🕒 WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
   
 <!-- ============================== FOOTER ============================== -->
 
