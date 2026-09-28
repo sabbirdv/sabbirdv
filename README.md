@@ -1,65 +1,132 @@
-# <h1 align="center">Hi, I'm Sabbir Hasan 👋</h1>
 
-<h3 align="center">Passionate Web Developer | UI/UX Enthusiast</h3>
+<!-- ============================== HEADER ============================== -->
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  <img
+    src="./assets/banner.png"
+    alt="Sabbir Hasan | MERN Stack Developer & Creative Designer"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <a href="https://sabbirdvs.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  <a href="https://www.linkedin.com/in/sabbirdv">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:sabbirhasandv@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
----
+<br />
 
-## 🛠 Tech Stack
-
-### Frontend Development
-
-<p align="left">
-  <img src="https://skill-icons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,nodejs" alt="Frontend Development"/>
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Umaer+Islam;Full+Stack+Web+Developer;Creative+Designer;JavaScript+%26+TypeScript+Enthusiast;Designer+%E2%80%A2+Builder+%E2%80%A2+Problem+Solver"
+      alt="Typing animation"
+    />
+  </a>
 </p>
 
-### Tools & Technologies
-
-<p align="left">
-  <img src="https://skill-icons.dev/icons?i=git,github,vscode,figma,photoshop" alt="Tools & Technologies"/>
-</p>
-
----
-
-## 📈 GitHub Statistics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabbirdv&show_icons=true&hide_border=true&theme=radical&count_private=true" alt="Sabbir's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirdv&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
+<p align="center">
+  <strong>MERN Stack Web Developer & Creative Designer</strong>
+  <br />
+  I design and build modern, functional, and user-focused digital experiences.
 </p>
 
 ---
 
-## 🕒 WakaTime Stats
+<!-- ============================== ABOUT ============================== -->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+## <img src="https://api.iconify.design/mdi/account.svg?color=%236e7781&width=20" alt="" /> About Me
+
+I'm **Sabbir Hasan**, a Mern Stack Web Developer & Creative Designer focused on building modern web applications and meaningful digital experiences.
+
+My background in design gives me a different perspective on development — I care about both **how a product works and how people experience it**.
+
+- <img src="https://api.iconify.design/mdi/laptop.svg?color=%236e7781&width=16" alt="" /> Currently developing my Full Stack Web Development skills
+- <img src="https://api.iconify.design/mdi/palette.svg?color=%236e7781&width=16" alt="" /> Background in Graphic Design & Visual Creativity
+- <img src="https://api.iconify.design/mdi/lightning-bolt-outline.svg?color=%236e7781&width=16" alt="" /> Working with JavaScript, TypeScript, React and modern web technologies
+- <img src="https://api.iconify.design/mdi/brain.svg?color=%236e7781&width=16" alt="" /> Interested in AI-driven development and practical software engineering
+- <img src="https://api.iconify.design/mdi/rocket-outline.svg?color=%236e7781&width=16" alt="" /> Building real-world projects to strengthen my development skills
+- <img src="https://api.iconify.design/mdi/web.svg?color=%236e7781&width=16" alt="" /> Open to collaboration, opportunities and interesting projects
 
 ---
 
-## 🚀 Recent Projects
+<!-- ============================== FOCUS ============================== -->
 
-- **Fitlog:** [GitHub Repository](https://github.com/sabbirdv/fitlog)
-- **Devstack:** [GitHub Repository](https://github.com/sabbirdv/devstack)
-- **DevConf:** [GitHub Repository](https://github.com/sabbirdv/devconf)
-- **Ecobazar:** [GitHub Repository](https://github.com/sabbirdv/ecobazar)
-- **E-commerce Landing Page:** [GitHub Repository](https://github.com/sabbirdv/ecommerce-landing-page)
+## <img src="https://api.iconify.design/mdi/construction.svg?color=%236e7781&width=20" alt="" /> Currently Working On
+
+```text
+▸ MERN Stack Web Development
+▸ JavaScript & TypeScript
+▸ React & Modern Frontend Development
+▸ REST APIs & Data Handling
+▸ Real-World Project Architecture
+```
 
 ---
 
-## 📫 Connect with Me
+<!-- ============================== TECH STACK ============================== -->
 
-- 💼 **LinkedIn:** *(আপনার লিঙ্কডইন প্রোফাইল লিংক)*
-- 🌐 **Portfolio:** *(আপনার পোর্টফোলিও সাইটের লিংক)*
-- ✉️ **Gmail:** `your.email@gmail.com`
+## <img src="https://api.iconify.design/mdi/tools.svg?color=%236e7781&width=20" alt="" /> Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" alt="Frontend technologies" />
+</p>
+
+### Tools & Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,illustrator" alt="Development and design tools" />
+</p>
+
+<!-- ============================== GITHUB STATS ============================== -->
+
+## <img src="https://api.iconify.design/mdi/chart-box-outline.svg?color=%236e7781&width=20" alt="" /> GitHub Stats
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.shion.dev/api?username=sabbirdv&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&border_radius=12&bg_color=0d1117"
+    alt="Sabbir Hasan's GitHub stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=sabbirdv&layout=compact&theme=dark&hide_border=true&border_radius=12&bg_color=0d1117"
+    alt="Sabbir Hasan's most used languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=sabbirdv&theme=dark&hide_border=true&border_radius=12&background=0D1117"
+    alt="Sabbir Hasan's GitHub streak"
+  />
+  
+<!-- ============================== FOOTER ============================== -->
+
+<h3 align="center"><img src="https://api.iconify.design/mdi/email-outline.svg?color=%236e7781&width=20" alt="" /> Let's build something together</h3>
+
+<p align="center">
+  <a href="mailto:sabbirhasandv@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://sabbirdvs.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/sabbirdv">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Designed & developed with care by Sabbir Hasan</sub>
+</p>
+  
