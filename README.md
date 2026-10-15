@@ -127,11 +127,11 @@ My background in design gives me a different perspective on development — I ca
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   27 hrs 42 mins        ███████████████████████▓░   94.12 %
-Markdown     48 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-Bash         40 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
-CSS          7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-JSON         6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+TypeScript   22 hrs 59 mins        ███████████████████████▓░   95.16 %
+Bash         32 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+Markdown     30 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+JSON         6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
