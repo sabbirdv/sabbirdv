@@ -127,9 +127,9 @@ My background in design gives me a different perspective on development — I ca
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   15 hrs 11 mins        ███████████████████████▓░   94.24 %
-Markdown     30 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-Bash         25 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+TypeScript   10 hrs 28 mins        ███████████████████████▒░   92.89 %
+Markdown     26 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+Bash         21 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
 ```
 
 <!--END_SECTION:waka-->
