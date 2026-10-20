@@ -127,7 +127,8 @@ My background in design gives me a different perspective on development — I ca
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Image (png)   3 hrs 55 mins         █████████████████▒░░░░░░░   69.32 %
+JSON          1 hr 44 mins          ███████▓░░░░░░░░░░░░░░░░░   30.68 %
 ```
 
 <!--END_SECTION:waka-->
