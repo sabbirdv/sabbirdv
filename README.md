@@ -127,8 +127,9 @@ My background in design gives me a different perspective on development — I ca
 <!--START_SECTION:waka-->
 
 ```txt
-Image (png)   3 hrs 55 mins         █████████████████▒░░░░░░░   69.32 %
-JSON          1 hr 44 mins          ███████▓░░░░░░░░░░░░░░░░░   30.68 %
+Image (png)   3 hrs 55 mins         ████████████████▒░░░░░░░░   65.96 %
+JSON          1 hr 48 mins          ███████▓░░░░░░░░░░░░░░░░░   30.48 %
+JavaScript    12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
 ```
 
 <!--END_SECTION:waka-->
