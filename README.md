@@ -127,8 +127,7 @@ My background in design gives me a different perspective on development — I ca
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   12 mins               ██████████████████▒░░░░░░   73.50 %
-JSON         4 mins                ██████▓░░░░░░░░░░░░░░░░░░   26.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
